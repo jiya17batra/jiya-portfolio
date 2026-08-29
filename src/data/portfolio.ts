@@ -10,7 +10,6 @@ export const LINKS = {
   github: "https://github.com/jiya17batra",
   behance: "https://www.behance.net/jiya17batra",
   instagram: "https://www.instagram.com/sunsets2suitcases",
-  
 };
 
 export type Category = "All" | "Projects" | "Case Study" | "Edu";
@@ -113,15 +112,14 @@ export const ABOUT = {
       answer:
         "Started as the most average school kid possible — never the topper, never the backbencher, just permanently spawned in the middle row 😭. Then I watched Cyberpunk + Psycho-Pass and thought, yep, I'm gonna be an engineer and build futuristic sci-fi gadgets. Cut to engineering... I discovered UI/UX and accidentally fell in love with making screens pretty AND useful. So yeah, I came to build the future and ended up designing the buttons.",
     },
-   {
+    {
       label: "Fun Facts",
       question: "Any fun facts?",
       answer:
         "I love photography 📸 and my ADHD has basically turned my career into a side-quest collection 😭. Coding? Tried it. UI/UX? Fell in love. Photography? Obviously. Events, anchoring, content, random creative experiments? Yep. Apparently having a main quest was never part of the plan.",
-  },
+    },
   ],
 };
-
 
 /* ---------------- Projects ---------------- */
 
@@ -286,13 +284,11 @@ export type Publication = {
 
 export const PUBLICATIONS: Publication[] = [
   {
-    title: "[MALICIOUS USER PREDICTION IN MULTI-TENANT CLOUDS USING FEDERATED LEARNING
-]",
+    title: "[MALICIOUS USER PREDICTION IN MULTI-TENANT CLOUDS USING FEDERATED LEARNING]",
     description: "[A federated learning-based system that collaboratively predicts and detects malicious user activities in multi-tenant cloud environments while preserving data privacy.]",
     year: "2026",
     url: "[https://ijerst.org/index.php/ijerst/article/view/2741]",
   },
-  
 ];
 
 /* ---------------- Education ---------------- */
@@ -311,7 +307,6 @@ export const EDUCATION: Education[] = [
     title: "B.Tech — Computer Science & Engineering",
     place: "[VIGNAN'S INSTITUTE OF MANAGEMENT AND TECHNOLOGY FOR WOMEN]",
     year: "[2022-2026]",
-    
   },
   {
     level: "Intermediate",
@@ -327,7 +322,6 @@ export const EDUCATION: Education[] = [
   },
 ];
 
-/* ---------------- Enrichment ---------------- */
 /* ---------------- Enrichment Activities ---------------- */
 
 export type Activity = {
@@ -438,8 +432,10 @@ export const EXPERIENCES: Experience[] = [
     responsibilities: ["Completed guided learning tracks and build tasks"],
     skills: ["UI/UX", "Web Development"],
     achievements: ["Certified across multiple Springboard tracks"],
-    proof: [{ label: "Supporting document", url: "https://medium.com/@jiya17batra/from-a-pragati-participant-to-a-leader-my-infosys-springboard-cohort-2-journey-c2385c3d29ca?sharedUserId=jiya17batra" }],
-    [{ label: "Check out my proof of work", url: "https://drive.google.com/file/d/1X1QnC9eGibxgmoks2x3W2_opoyxfTCKs/view?usp=sharing" }],
+    proof: [
+      { label: "Supporting document", url: "https://medium.com/@jiya17batra/from-a-pragati-participant-to-a-leader-my-infosys-springboard-cohort-2-journey-c2385c3d29ca?sharedUserId=jiya17batra" },
+      { label: "Check out my proof of work", url: "https://drive.google.com/file/d/1X1QnC9eGibxgmoks2x3W2_opoyxfTCKs/view?usp=sharing" },
+    ],
   },
   {
     id: "kiye",
@@ -451,8 +447,10 @@ export const EXPERIENCES: Experience[] = [
     responsibilities: ["Coordinated student activities, events & engagement"],
     skills: ["Communication", "Event Management"],
     achievements: ["Grew participation across campus events"],
-    proof: [{ label: "View LinkedIn Post from 2025", url: "[https://www.linkedin.com/posts/jiya17batra_kiyefoundation-apjabdulkalam-vigyanvaibhav2k25-activity-7301867249789788160-mcH_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA]" }],
-     [{ label: "View LinkedIn Post from 2024", url: "[https://www.linkedin.com/posts/jiya17batra_kiye-inspirehyd2024-inspire2k24-activity-7313620818066862080-JYKL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA]" }],
+    proof: [
+      { label: "View LinkedIn Post from 2025", url: "[https://www.linkedin.com/posts/jiya17batra_kiyefoundation-apjabdulkalam-vigyanvaibhav2k25-activity-7301867249789788160-mcH_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA]" },
+      { label: "View LinkedIn Post from 2024", url: "[https://www.linkedin.com/posts/jiya17batra_kiye-inspirehyd2024-inspire2k24-activity-7313620818066862080-JYKL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA]" },
+    ],
   },
 ];
 
