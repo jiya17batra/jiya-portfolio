@@ -169,7 +169,7 @@ export const PROJECTS: Project[] = [
       "An interactive web experience where ancient Indian elements meet modern web design.",
     tech: ["HTML", "CSS", "JavaScript"],
     github:
-      "https://github.com/jiya17batra/Pancha-Mahabhuta",
+      "https://jiya17batra.github.io/Pancha-Mahabhuta/",
   },
   {
     title: "Ved Aura",
@@ -207,17 +207,17 @@ export const PORTFOLIOS: Portfolio[] = [
   {
     title: "Portfolio 1",
     description: "My first portfolio — where the journey started.",
-    url: "[https://jiya17batra.github.io/CODSOFT/Task1/index.html]",
+    url: "https://jiya17batra.github.io/CODSOFT/Task1/index.html",
   },
   {
     title: "Portfolio 2",
     description: "A redesigned interactive portfolio focused on storytelling..",
-    url: "[https://jiya17batra.github.io/Interactive-Portfolio/]",
+    url: "https://jiya17batra.github.io/Interactive-Portfolio/",
   },
   {
     title: "Portfolio 3",
     description: "Press Release: A redesigned portfolio showcasing a new editorial direction",
-    url: "[https://jiya17batra.github.io/The-Portfolio-Times/]",
+    url: "https://jiya17batra.github.io/The-Portfolio-Times/",
   },
   {
     title: "Portfolio 4",
@@ -287,7 +287,7 @@ export const PUBLICATIONS: Publication[] = [
     title: "[MALICIOUS USER PREDICTION IN MULTI-TENANT CLOUDS USING FEDERATED LEARNING]",
     description: "[A federated learning-based system that collaboratively predicts and detects malicious user activities in multi-tenant cloud environments while preserving data privacy.]",
     year: "2026",
-    url: "[https://ijerst.org/index.php/ijerst/article/view/2741]",
+    url: "https://ijerst.org/index.php/ijerst/article/view/2741",
   },
 ];
 
@@ -337,35 +337,35 @@ export const ACTIVITIES: Activity[] = [
     role: "Telangana Representative",
     description:
       "Represented Telangana at the national level during the Inter-State Youth Exchange Program in Gaya, Bihar. Took part in cultural exchange, interacted with participants from different states, and got to experience the whole 'represent your state' moment IRL 🇮🇳✨.",
-    linkedin: "[https://www.instagram.com/p/DVyVHf8E4KJ/?igsi=ZmZkaGdxZjFyOXpo]",
+    Instagram: "https://www.instagram.com/p/DVyVHf8E4KJ/?igsi=ZmZkaGdxZjFyOXpo",
   },
   {
     title: "Vigyan Vaibhav 2K25",
     role: "Coordinator & Organizer",
     description:
       "Coordinated a large-scale aerospace & defense event at Gachibowli Stadium, managing crowds, volunteers and event operations. Got to witness some serious science and meet Dr. G. Satheesh Reddy, Dr. Samir V. Kamat, Dr. Ummalaneni Raja Babu and other leaders from India's aerospace & defense ecosystem 🚀.",
-    linkedin: "[https://www.linkedin.com/posts/jiya17batra_kiyefoundation-apjabdulkalam-vigyanvaibhav2k25-activity-7301867249789788160-mcH_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA]",
+    linkedin: "https://www.linkedin.com/posts/jiya17batra_kiyefoundation-apjabdulkalam-vigyanvaibhav2k25-activity-7301867249789788160-mcH_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA",
   },
   {
     title: "INSPIRE-HYD 2024",
     role: "Coordinator — Best Coordinator Award",
     description:
       "Helped coordinate an event with 5,000+ students at Gachibowli Indoor Stadium. Managed people, pressure and approximately 5000 things happening at once — and somehow walked away with a Best Coordinator recognition. Also got the unforgettable chance to meet Dr. G. Satheesh Reddy, Glory Swarupa Ma'am, Dr. S. Somanath and Lieutenant General Karanbir Singh Barar 🚀.",
-    linkedin: "[https://www.linkedin.com/posts/jiya17batra_kiye-inspirehyd2024-inspire2k24-activity-7313620818066862080-JYKL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA]",
+    linkedin: "https://www.linkedin.com/posts/jiya17batra_kiye-inspirehyd2024-inspire2k24-activity-7313620818066862080-JYKL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA",
   },
   {
     title: "Flutter Workshop",
     role: "Anchor & Host",
     description:
       "Hosted a college Flutter workshop with my partner-in-crime Vaishnavi. From Flutter fundamentals and hot reload to colour psychology, hands-on practice and a chaotic quiz showdown — basically kept the session moving while learning along the way 🎤💻.",
-    linkedin: "[https://www.linkedin.com/posts/jiya17batra_flutter-flutterdev-techtalk-activity-7271596129765507073-tcmr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA]",
+    linkedin: "https://www.linkedin.com/posts/jiya17batra_flutter-flutterdev-techtalk-activity-7271596129765507073-tcmr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA",
   },
   {
     title: "IBM AI & Cloud Bootcamp",
     role: "Anchor & Host",
     description:
       "Hosted a 3-day IBM bootcamp covering AI, Machine Learning, Prompt Engineering, IBM Cloud and chatbot development. Kept the sessions alive, learned how to talk to AI without it judging my prompts, and watched a chatbot come to life 🤖☁️.",
-    linkedin: "[https://www.linkedin.com/posts/jiya17batra_ai-machinelearning-cloudcomputing-activity-7272652681205211136-IlDn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA]",
+    linkedin: "https://www.linkedin.com/posts/jiya17batra_ai-machinelearning-cloudcomputing-activity-7272652681205211136-IlDn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA",
   },
 ];
 
@@ -433,7 +433,7 @@ export const EXPERIENCES: Experience[] = [
     skills: ["UI/UX", "Web Development"],
     achievements: ["Certified across multiple Springboard tracks"],
     proof: [
-      { label: "Supporting document", url: "https://medium.com/@jiya17batra/from-a-pragati-participant-to-a-leader-my-infosys-springboard-cohort-2-journey-c2385c3d29ca?sharedUserId=jiya17batra" },
+      { label: "Read on Medium", url: "https://medium.com/@jiya17batra/from-a-pragati-participant-to-a-leader-my-infosys-springboard-cohort-2-journey-c2385c3d29ca?sharedUserId=jiya17batra" },
       { label: "Check out my proof of work", url: "https://drive.google.com/file/d/1X1QnC9eGibxgmoks2x3W2_opoyxfTCKs/view?usp=sharing" },
     ],
   },
@@ -448,8 +448,8 @@ export const EXPERIENCES: Experience[] = [
     skills: ["Communication", "Event Management"],
     achievements: ["Grew participation across campus events"],
     proof: [
-      { label: "View LinkedIn Post from 2025", url: "[https://www.linkedin.com/posts/jiya17batra_kiyefoundation-apjabdulkalam-vigyanvaibhav2k25-activity-7301867249789788160-mcH_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA]" },
-      { label: "View LinkedIn Post from 2024", url: "[https://www.linkedin.com/posts/jiya17batra_kiye-inspirehyd2024-inspire2k24-activity-7313620818066862080-JYKL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA]" },
+      { label: "View LinkedIn Post from 2025", url: "https://www.linkedin.com/posts/jiya17batra_kiyefoundation-apjabdulkalam-vigyanvaibhav2k25-activity-7301867249789788160-mcH_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA" },
+      { label: "View LinkedIn Post from 2024", url: "https://www.linkedin.com/posts/jiya17batra_kiye-inspirehyd2024-inspire2k24-activity-7313620818066862080-JYKL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE6azgcBAjsNejSfaIhfA1jvxbZydo40TAA" },
     ],
   },
 ];
