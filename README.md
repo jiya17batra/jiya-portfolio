@@ -1,29 +1,9 @@
-# Welcome to your Lovable project
+# ✦ Jiya Batra — Interactive Portfolio
 
-This project was built with [Lovable](https://lovable.dev).
+> **A portfolio that feels less like a résumé and more like a conversation. 💬**
 
-## Build with Lovable
+🔗 **[Enter the Live Experience →]([https://jiya17batra.github.io/jiya-portfolio/](https://jiya-portfolio-opal.vercel.app/))**
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+I wanted to build something that feels less like scrolling through a résumé and more like **discovering a person through a conversation**. So instead of the usual About → Skills → Projects → Contact, I turned my portfolio into an interactive, chat-inspired experience where every conversation reveals a different part of my journey.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+There are projects I've built, things I've designed, research I've published, experiences I've collected, and a few random pieces of me hiding between the pixels. **Don't just read about it — open the portfolio and start clicking. You might find something you weren't expecting. ✨**
