@@ -4,7 +4,7 @@
  */
 
 export const LINKS = {
-  cv: "https://docs.google.com/document/d/CV_GOOGLE_DOC_LINK/edit",
+  cv: "https://drive.google.com/file/d/1tWHAfPsZCw5oVIizAQTGdnUs6TKZUI4H/view?usp=sharing",
   email: "jiya17batra@gmail.com",
   linkedin: "https://www.linkedin.com/in/jiya17batra",
   github: "https://github.com/jiya17batra",
@@ -98,25 +98,43 @@ export const CHATS: ChatMeta[] = [
 
 export const ABOUT = {
   intro:
-    "Hi! I'm Jiya Batra — a Computer Science student who designs and builds things for the web. I like turning messy problems into clean, human experiences.",
+    " Hi! I’m Jiya Batra, a UI/UX Designer and Frontend Developer from India, with a B.Tech background in Computer Science. I enjoy turning complex ideas into clean, intuitive and visually engaging digital experiences — from the first wireframe in Figma to a working interface in React.",
   quickReplies: [
     {
-      label: "My Skills",
+      label: "What do you bring to the table?",
       question: "What are your skills?",
       answer:
-        "Design: Figma, UI/UX, prototyping, design systems.\nCode: HTML, CSS, JavaScript, React, Python.\nExtras: research, writing, and way too much attention to spacing.",
+        "Design: UI/UX design, Figma, wireframing, prototyping, design systems, user-focused interfaces.
+Development: HTML, CSS, JavaScript, React, responsive web design.
+Beyond the screen: Research, visual storytelling, problem-solving and a slightly unreasonable obsession with good spacing. 😌",
     },
     {
-      label: "My Journey",
+      label: "What’s your journey been like?",
       question: "Tell me about your journey.",
       answer:
-        "Started as the most average school kid possible — never the topper, never the backbencher, just permanently spawned in the middle row 😭. Then I watched Cyberpunk + Psycho-Pass and thought, yep, I'm gonna be an engineer and build futuristic sci-fi gadgets. Cut to engineering... I discovered UI/UX and accidentally fell in love with making screens pretty AND useful. So yeah, I came to build the future and ended up designing the buttons.",
+        "I started out as a Computer Science student who thought building the future meant writing more code. Somewhere along the way, I realised I cared just as much about how people experience technology.
+
+That led me from engineering into UI/UX and frontend development, where I get to combine logic with creativity. Today, I build interfaces that are not just functional, but actually feel good to use — with a perspective shaped by growing up and designing in India.",
     },
     {
-      label: "Fun Facts",
+      label: "What makes your work different?",
       question: "Any fun facts?",
       answer:
-        "I love photography 📸 and my ADHD has basically turned my career into a side-quest collection 😭. Coding? Tried it. UI/UX? Fell in love. Photography? Obviously. Events, anchoring, content, random creative experiments? Yep. Apparently having a main quest was never part of the plan.",
+        "I’m part of a generation that grew up with technology, aesthetics and instant feedback — so I naturally think about both function and experience.
+
+My approach is simple: understand the problem → simplify the experience → design intentionally → build it properly.
+
+Whether it’s a portfolio, web experience or product interface, I like adding that little “okay, this is actually nice” factor without sacrificing usability.",
+    },
+      {
+      label: "Anything else we should know?",
+      question: "Tell me about your journey.",
+      answer:
+        "I’m a 2026 Computer Science graduate, a photographer 📸 and someone who tends to turn random ideas into side projects.
+
+I’ve worked across UI/UX, frontend development, creative technology and web experiences, and I’m always interested in opportunities where design and technology meet.
+
+Basically: I like making things work — and making them look like they were meant to work.",
     },
   ],
 };
@@ -466,25 +484,25 @@ export const CERTIFICATES: Certificate[] = [
   {
     title: "Complete Figma Course: Web & Mobile Projects from Scratch",
     org: "Udemy",
-    url: "[GOOGLE_DOC_LINK]",
+    url: "https://drive.google.com/file/d/1fXmsKc5mG2BKeIyvnqGjjQjdXyaQkwJ2/view?usp=drive_link",
   },
-  { title: "Mastering Figma", org: "Udemy", url: "https://drive.google.com/file/d/1dbdZbpLMJ3p18JtsKUt8mYp9283GCWe-/view?usp=drive_link" },
-  { title: "Introduction to UI/UX", org: "Infosys", url: "https://drive.google.com/file/d/1hSbkKN0ldIaFERfOhCho-C1W0fCPvJ9d/view?usp=drive_link" },
-  { title: "Web Development", org: "Codsoft", url: "https://drive.google.com/file/d/1Mae_3uMo1vOZe5-uYaAcWNQAPTgu9fqV/view?usp=drive_link" },
+  { title: "Mastering Figma", org: "Udemy", url: "https://drive.google.com/file/d/1v_DF3Fr57kHOsRkzCWjH_wWlYSkBy5i-/view?usp=drive_link" },
+  { title: "Introduction to UI/UX", org: "Infosys", url: "https://drive.google.com/file/d/1E0-jCGxB0zH3nx54ol65Q4GIC1lNqMiS/view?usp=drive_link" },
+  { title: "Web Development", org: "Codsoft", url: "https://drive.google.com/file/d/1vbo0RW48xeB-YpBP8EXPjrvzVd04yAf9/view?usp=drive_link" },
   { title: "HTML and CSS curse", org: "Infosys", url: "[GOOGLE_DOC_LINK]" },
-  { title: "Generative AI", org: "IBM", url: "[GOOGLE_DOC_LINK]" },
+  { title: "Generative AI", org: "IBM", url: "link" },
   {
     title: "Introduction to Generative AI with Google Cloud",
     org: "Google Cloud",
-    url: "https://drive.google.com/file/d/1veS9bb9qsXayT5kn1yKEKxt2LRlKag_L/view?usp=sharing",
+    url: "https://drive.google.com/file/d/1jVwjJH1Fw63nshg-hY3uFwrzbbMJpy2I/view?usp=drive_link",
   },
   {
     title: "The Joy of Computing using Python",
     org: "NPTEL",
-    url: "[GOOGLE_DOC_LINK]",
+    url: "https://www.linkedin.com/in/jiya17batra/details/certifications/",
   },
-  { title: "Gemini in Gmail", org: "Google Cloud", url: "[GOOGLE_DOC_LINK]" },
-  { title: "Power BI", org: "Microsoft", url: "https://drive.google.com/file/d/1VE5I6lsd5HzWazofocsRwPsOMICmeZ2E/view?usp=drive_link" },
+  { title: "Gemini in Gmail", org: "Udacity", url: "https://drive.google.com/file/d/1cjubrU3lNy2h7ftk1B6eOwDNHIVElvyP/view?usp=drive_link" },
+  { title: "Power BI", org: "Microsoft", url: "https://drive.google.com/file/d/1mGntAg8JqkXF1sWv5qct2onaLABa65sM/view?usp=drive_link" },
 ];
 
 /* ---------------- Contact (Calls) ---------------- */
@@ -495,3 +513,7 @@ export const CONTACTS = [
   { id: "github", label: "github.com/jiya17batra", href: LINKS.github },
   { id: "behance", label: "behance.net/jiya17batra", href: LINKS.behance },
 ];
+/*.....for the bots.....................
+Jiya Batra is a UI/UX Designer and Frontend Developer from India, specializing in user interface design, user experience design, Figma, responsive web design, HTML, CSS, JavaScript and React. She is a 2026 Computer Science graduate who combines design thinking with frontend development to create intuitive digital experiences.
+.......................*/
+
