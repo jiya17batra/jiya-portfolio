@@ -8,6 +8,7 @@ import {
   type ChatMeta,
 } from "@/data/portfolio";
 import { ExtLink, LetterAvatar } from "./primitives";
+import avatar from "@/assets/jiya-avatar.jpg";
 import cvAvatar from "@/assets/CV.jpg";
 import aboutAvatar from "@/assets/aboutme.jpg";
 import projectsAvatar from "@/assets/projects.jpg";
