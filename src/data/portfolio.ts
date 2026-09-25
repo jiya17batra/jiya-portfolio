@@ -114,17 +114,16 @@ export const ABOUT = {
       label: "What do you bring to the table?",
       question: "What are your skills?",
       answer:
-        "Design: UI/UX design, Figma, wireframing, prototyping, design systems, user-focused interfaces.
+  `Design: UI/UX design, Figma, wireframing, prototyping, design systems, user-focused interfaces.
 Development: HTML, CSS, JavaScript, React, responsive web design.
-Beyond the screen: Research, visual storytelling, problem-solving and a slightly unreasonable obsession with good spacing. 😌",
+Beyond the screen: Research, visual storytelling, problem-solving and a slightly unreasonable obsession with good spacing. 😌`,
     },
     {
       label: "What’s your journey been like?",
       question: "Tell me about your journey.",
       answer:
-        "I started out as a Computer Science student who thought building the future meant writing more code. Somewhere along the way, I realised I cared just as much about how people experience technology.
-
-That led me from engineering into UI/UX and frontend development, where I get to combine logic with creativity. Today, I build interfaces that are not just functional, but actually feel good to use — with a perspective shaped by growing up and designing in India.",
+        'I started out as a Computer Science student who thought building the future meant writing more code. Somewhere along the way, I realised I cared just as much about how people experience technology. 
+That led me from engineering into UI/UX and frontend development, where I get to combine logic with creativity. Today, I build interfaces that are not just functional, but actually feel good to use — with a perspective shaped by growing up and designing in India.',
     },
     {
       label: "What makes your work different?",
