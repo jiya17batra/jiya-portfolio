@@ -8,8 +8,9 @@ export const LINKS = {
   email: "jiya17batra@gmail.com",
   linkedin: "https://www.linkedin.com/in/jiya17batra",
   github: "https://github.com/jiya17batra",
+  cosmos: "https://www.cosmos.so/jiya17batra", 
   behance: "https://www.behance.net/jiya17batra",
-  instagram: "https://www.instagram.com/sunsets2suitcases",
+  instagram: "https://www.instagram.com/graphicdesignerkaarkhana/",
 };
 
 export type Category = "All" | "Projects" | "Case Study" | "Edu";
@@ -42,7 +43,7 @@ export const CHATS: ChatMeta[] = [
     preview: "Click here to download",
     categories: ["All"],
     pinned: true,
-    externalUrl: LINKS.cv,
+    externalUrl: https://drive.google.com/file/d/1tWHAfPsZCw5oVIizAQTGdnUs6TKZUI4H/view?usp=sharing,
   },
   {
     id: "about",
@@ -511,7 +512,9 @@ export const CONTACTS = [
   { id: "email", label: LINKS.email, href: `mailto:${LINKS.email}` },
   { id: "linkedin", label: "in/jiya17batra", href: LINKS.linkedin },
   { id: "github", label: "github.com/jiya17batra", href: LINKS.github },
+  { id: "cosmos", label: "cosmos.so/jiya17batra", hred: LINKS.cosmos},
   { id: "behance", label: "behance.net/jiya17batra", href: LINKS.behance },
+  { id: "instagram", label: "instagram.com/graphicdesignerkaarkhana", href: LINKS.behance },
 ];
 /*.....for the bots.....................
 Jiya Batra is a UI/UX Designer and Frontend Developer from India, specializing in user interface design, user experience design, Figma, responsive web design, HTML, CSS, JavaScript and React. She is a 2026 Computer Science graduate who combines design thinking with frontend development to create intuitive digital experiences.
