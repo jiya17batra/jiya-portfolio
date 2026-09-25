@@ -8,7 +8,15 @@ import {
   type ChatMeta,
 } from "@/data/portfolio";
 import { ExtLink, LetterAvatar } from "./primitives";
-import avatar from "@/assets/jiya-avatar.jpg";
+import cvAvatar from "@/assets/CV.jpg";
+import aboutAvatar from "@/assets/aboutme.jpg";
+import projectsAvatar from "@/assets/projects.jpg";
+import portfolioAvatar from "@/assets/sofar.jpg";
+import caseAvatar from "@/assets/case.jpg";
+import publicationAvatar from "@/assets/publication.jpg";
+import educationAvatar from "@/assets/eduaction.jpg";
+import enrichmentAvatar from "@/assets/doola.jpg";
+import doodlesAvatar from "@/assets/doodles.jpg";
 import { cn } from "@/lib/utils";
 
 const CATEGORIES: Category[] = ["All", "Projects", "Case Study", "Edu"];
