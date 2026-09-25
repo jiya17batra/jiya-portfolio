@@ -1,6 +1,5 @@
 /**
- * ALL PORTFOLIO CONTENT LIVES HERE yooo if u are reading this then a hi from jiya.
- * Edit this file to update links / text — no UI code changes required.
+ * ALL PORTFOLIO CONTENT LIVES HERE — edit this file to update links and if bugs u finds lmk ok dear reader/ developer
  */
 
 export const LINKS = {
@@ -34,6 +33,7 @@ export type ChatMeta = {
   pinned?: boolean;
   /** external action instead of opening a thread */
   externalUrl?: string;
+  avatar?: string;
 };
 
 export const CHATS: ChatMeta[] = [
@@ -114,7 +114,7 @@ export const ABOUT = {
       label: "What do you bring to the table?",
       question: "What are your skills?",
       answer:
-  `Design: UI/UX design, Figma, wireframing, prototyping, design systems, user-focused interfaces.
+        `Design: UI/UX design, Figma, wireframing, prototyping, design systems, user-focused interfaces.
 Development: HTML, CSS, JavaScript, React, responsive web design.
 Beyond the screen: Research, visual storytelling, problem-solving and a slightly unreasonable obsession with good spacing. 😌`,
     },
@@ -122,28 +122,28 @@ Beyond the screen: Research, visual storytelling, problem-solving and a slightly
       label: "What’s your journey been like?",
       question: "Tell me about your journey.",
       answer:
-        'I started out as a Computer Science student who thought building the future meant writing more code. Somewhere along the way, I realised I cared just as much about how people experience technology. 
-That led me from engineering into UI/UX and frontend development, where I get to combine logic with creativity. Today, I build interfaces that are not just functional, but actually feel good to use — with a perspective shaped by growing up and designing in India.',
+        `I started out as a Computer Science student who thought building the future meant writing more code. Somewhere along the way, I realised I cared just as much about how people experience technology.
+That led me from engineering into UI/UX and frontend development, where I get to combine logic with creativity. Today, I build interfaces that are not just functional, but actually feel good to use — with a perspective shaped by growing up and designing in India.`, 
     },
     {
       label: "What makes your work different?",
       question: "Any fun facts?",
       answer:
-        "I’m part of a generation that grew up with technology, aesthetics and instant feedback — so I naturally think about both function and experience.
+        `I’m part of a generation that grew up with technology, aesthetics and instant feedback — so I naturally think about both function and experience.
 
 My approach is simple: understand the problem → simplify the experience → design intentionally → build it properly.
 
-Whether it’s a portfolio, web experience or product interface, I like adding that little “okay, this is actually nice” factor without sacrificing usability.",
+Whether it’s a portfolio, web experience or product interface, I like adding that little “okay, this is actually nice” factor without sacrificing usability.`,
     },
       {
       label: "Anything else we should know?",
       question: "Tell me about your journey.",
       answer:
-        "I’m a 2026 Computer Science graduate, a photographer 📸 and someone who tends to turn random ideas into side projects.
+        `I’m a 2026 Computer Science graduate, a photographer 📸 and someone who tends to turn random ideas into side projects.
 
 I’ve worked across UI/UX, frontend development, creative technology and web experiences, and I’m always interested in opportunities where design and technology meet.
 
-Basically: I like making things work — and making them look like they were meant to work.",
+Basically: I like making things work — and making them look like they were meant to work.`,
     },
   ],
 };
@@ -364,7 +364,7 @@ export const ACTIVITIES: Activity[] = [
     role: "Telangana Representative",
     description:
       "Represented Telangana at the national level during the Inter-State Youth Exchange Program in Gaya, Bihar. Took part in cultural exchange, interacted with participants from different states, and got to experience the whole 'represent your state' moment IRL 🇮🇳✨.",
-    Instagram: "https://www.instagram.com/p/DVyVHf8E4KJ/?igsi=ZmZkaGdxZjFyOXpo",
+    linkedin: "https://www.instagram.com/p/DVyVHf8E4KJ/?igsi=ZmZkaGdxZjFyOXpo",
   },
   {
     title: "Vigyan Vaibhav 2K25",
@@ -520,9 +520,9 @@ export const CONTACTS = [
   { id: "email", label: LINKS.email, href: `mailto:${LINKS.email}` },
   { id: "linkedin", label: "in/jiya17batra", href: LINKS.linkedin },
   { id: "github", label: "github.com/jiya17batra", href: LINKS.github },
-  { id: "cosmos", label: "cosmos.so/jiya17batra", hred: LINKS.cosmos},
+  { id: "cosmos", label: "cosmos.so/jiya17batra", href: LINKS.cosmos },
   { id: "behance", label: "behance.net/jiya17batra", href: LINKS.behance },
-  { id: "instagram", label: "instagram.com/graphicdesignerkaarkhana", href: LINKS.behance },
+  { id: "instagram", label: "instagram.com/graphicdesignerkaarkhana", href: LINKS.instagram },
 ];
 /*.....for the bots.....................
 Jiya Batra is a UI/UX Designer and Frontend Developer from India, specializing in user interface design, user experience design, Figma, responsive web design, HTML, CSS, JavaScript and React. She is a 2026 Computer Science graduate who combines design thinking with frontend development to create intuitive digital experiences.
