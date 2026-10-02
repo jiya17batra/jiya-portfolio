@@ -144,19 +144,18 @@ So my approach is usually: understand the idea → understand the audience → s
 
 I care about the details, but I also care about the bigger picture — why something exists, who it is for and what it should make people feel or do.`,
     },
-      {
-      label: "Anything else we should know?",
-      question: "What are you exploring right now?",
-      answer:
-        `answer:
-  `I’m a 2026 Computer Science graduate, a photographer 📸 and someone who tends to turn random ideas into side projects.
+{
+  label: "Anything else we should know?",
+  question: "What are you exploring right now?",
+  answer:
+    `I’m a 2026 Computer Science graduate, a photographer 📸 and someone who tends to turn random ideas into side projects.
 
 I’m interested in UI/UX and visual design, frontend and interactive web experiences, digital marketing and growth, analytics and Generative AI.
 
 I’m especially drawn to projects where creative thinking and technology come together — where I can design, experiment, learn and turn an idea into something people can actually experience.
 
 Basically: I like figuring things out, making them work and then making them better.`,
-    },
+},
   ],
 };
 
