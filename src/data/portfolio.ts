@@ -31,7 +31,7 @@ export type ChatMeta = {
   preview: string;
   categories: Category[];
   pinned?: boolean;
-  /** external action instead of opening a thread */
+  /** external action instead of opening a thread ok daa*/
   externalUrl?: string;
   avatar?: string;
 };
@@ -49,7 +49,7 @@ export const CHATS: ChatMeta[] = [
   {
     id: "about",
     name: "About me",
-    preview: "A little about the person behind the pixels ✨",
+    preview: "A little about the ideas, design & technology behind the work ✨",
     categories: ["All"],
     avatar: "aboutme.jpg",
   },
@@ -108,42 +108,54 @@ export const CHATS: ChatMeta[] = [
 
 export const ABOUT = {
   intro:
-    " Hi! I’m Jiya Batra, a UI/UX Designer and Frontend Developer from India, with a B.Tech background in Computer Science. I enjoy turning complex ideas into clean, intuitive and visually engaging digital experiences — from the first wireframe in Figma to a working interface in React.",
+    " Hi! I’m Jiya Batra, a Computer Science graduate working at the intersection of UI/UX, visual design, frontend development and digital marketing. I enjoy turning ideas into digital experiences that are visually engaging, purposeful and easy to understand, whether that starts with a Figma frame, a content idea or a working web experience.",
   quickReplies: [
     {
       label: "What do you bring to the table?",
       question: "What are your skills?",
       answer:
-        `Design: UI/UX design, Figma, wireframing, prototyping, design systems, user-focused interfaces.
-Development: HTML, CSS, JavaScript, React, responsive web design.
-Beyond the screen: Research, visual storytelling, problem-solving and a slightly unreasonable obsession with good spacing. 😌`,
+        `I work across design, technology and digital growth.
+
+Design: UI/UX, visual design, Figma, interaction and visual storytelling.
+Technology: Frontend development, React and web experiences.
+Digital: Digital marketing, analytics, content strategy and Generative AI.
+
+I like moving between the creative and technical sides of a project — understanding the idea, shaping the experience and figuring out how to bring it to life.`,
     },
     {
       label: "What’s your journey been like?",
       question: "Tell me about your journey.",
       answer:
-        `I started out as a Computer Science student who thought building the future meant writing more code. Somewhere along the way, I realised I cared just as much about how people experience technology.
-That led me from engineering into UI/UX and frontend development, where I get to combine logic with creativity. Today, I build interfaces that are not just functional, but actually feel good to use — with a perspective shaped by growing up and designing in India.`, 
+        `I started with Computer Science, but over time I realised that building technology isn't only about making something work, it’s also about how people see it, understand it and experience it.
+
+That curiosity took me into UI/UX and visual design, frontend development and eventually digital marketing and growth. Along the way, I became interested in the space where design, technology, content and audience behaviour overlap.
+
+Today, I enjoy creating digital experiences that combine these different sides... from interfaces and web experiences to interactive content and ideas that are built to connect with an audience.`, 
     },
     {
       label: "What makes your work different?",
-      question: "Any fun facts?",
+      question: "How do you approach your work?",
       answer:
-        `I’m part of a generation that grew up with technology, aesthetics and instant feedback — so I naturally think about both function and experience.
+        `I don't really see design, technology and marketing as separate boxes.
 
-My approach is simple: understand the problem → simplify the experience → design intentionally → build it properly.
+A good interface needs to communicate. A good piece of content needs to hold attention. And a good digital experience needs to make sense to the person using it.
 
-Whether it’s a portfolio, web experience or product interface, I like adding that little “okay, this is actually nice” factor without sacrificing usability.`,
+So my approach is usually: understand the idea → understand the audience → simplify → design → build → refine.
+
+I care about the details, but I also care about the bigger picture — why something exists, who it is for and what it should make people feel or do.`,
     },
       {
       label: "Anything else we should know?",
-      question: "Tell me about your journey.",
+      question: "What are you exploring right now?",
       answer:
-        `I’m a 2026 Computer Science graduate, a photographer 📸 and someone who tends to turn random ideas into side projects.
+        `answer:
+  `I’m a 2026 Computer Science graduate, a photographer 📸 and someone who tends to turn random ideas into side projects.
 
-I’ve worked across UI/UX, frontend development, creative technology and web experiences, and I’m always interested in opportunities where design and technology meet.
+I’m interested in UI/UX and visual design, frontend and interactive web experiences, digital marketing and growth, analytics and Generative AI.
 
-Basically: I like making things work — and making them look like they were meant to work.`,
+I’m especially drawn to projects where creative thinking and technology come together — where I can design, experiment, learn and turn an idea into something people can actually experience.
+
+Basically: I like figuring things out, making them work and then making them better.`,
     },
   ],
 };
