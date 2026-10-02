@@ -6,6 +6,7 @@ import {
   CASE_STUDIES,
   EDUCATION,
   LINKS,
+  PORTFOLIOS,
   PROJECTS,
   PUBLICATIONS,
   type ChatId,
@@ -103,6 +104,34 @@ export function ThreadBody({ id }: { id: ChatId }) {
     );
   }
 
+  if (id === "portfolio") {
+  return (
+    <>
+      <Bubble side="out">Show me your portfolio journey.</Bubble>
+      <Bubble>
+        A little collection of things I&apos;ve designed & built ✨
+      </Bubble>
+
+      {PORTFOLIOS.map((p) => (
+        <Bubble
+          key={p.title}
+          className="max-w-[92%] sm:max-w-[80%]"
+        >
+          <p className="text-sm font-semibold">{p.title}</p>
+
+          <p className="mt-1 text-[13px] text-foreground/70">
+            {p.description}
+          </p>
+
+          <ExtLink href={p.url} className="mt-2.5">
+            View Portfolio →
+          </ExtLink>
+        </Bubble>
+      ))}
+    </>
+  );
+}
+  
   if (id === "case-studies") {
     return (
       <>
